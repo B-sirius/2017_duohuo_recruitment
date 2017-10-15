@@ -1,5 +1,4 @@
 ##Hello!Duohuo!
-  
 ###个人简介
 My name is 陈珖 
 I'm 18岁 
