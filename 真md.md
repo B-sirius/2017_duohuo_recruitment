@@ -2,8 +2,8 @@ Hello!Duohuo!
 ====
 个人简介 
 ----
-My name is 陈珖 
-I'm 18岁 
+My name is 陈珖   
+I'm 18岁  
 I come from 江苏盐城  
 I'm 17计科2班的 
   
@@ -29,6 +29,8 @@ Github
 ---
 My friends 一般都是逗比的或是能忍受我silly b的  
   
+----
+ 
 **发现第一个提交的猫头是个大佬**  
   
 ![Alt text](https://imgsa.baidu.com/forum/w%3D580/sign=e8c04ab0b1003af34dbadc68052bc619/0172a213b07eca80bb2b935e962397dda04483c5.jpg) 
