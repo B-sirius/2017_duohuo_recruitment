@@ -26,11 +26,11 @@
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508078331643&di=d41d8cd98f00b204e9800998ecf8427e&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F9e3df8dcd100baa1f60bf4c44410b912c8fc2ead.jpg)
 
 
-<img width=75% height=75% src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508078331643&di=d41d8cd98f00b204e9800998ecf8427e&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F9e3df8dcd100baa1f60bf4c44410b912c8fc2ead.jpg"  alt="意气风发" />
+<img width=30% height=30% src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508078331643&di=d41d8cd98f00b204e9800998ecf8427e&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F9e3df8dcd100baa1f60bf4c44410b912c8fc2ead.jpg"  alt="意气风发" />
 
 
 感觉自我介绍似乎用不到多少语法，为了证明学过，只能打了个生硬的语法补丁。  
-<font color=#7CFC00 size=5 face="黑体">原谅</font>脑子
+<font color=green>原谅</font>脑子
 
 
 
