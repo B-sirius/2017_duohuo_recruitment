@@ -1,6 +1,6 @@
 ご机嫌よう  
-我是**张逸飞**，计软院物联网专业的17级新生。  
-因为我的专业与电脑有关，所以觉得配合贵（emmmm。。）室食用能更快提高电脑水平。  
+我是**张逸飞**，计软院物联网专业的17级新生。  
+因为我的专业与电脑有关，所以觉得配合贵（emmmm。。）室食用能更快提高电脑水平。  
 除此之外，电脑也是我的兴趣之一。高中的时候就接触过编程，虽然没啥成绩就是了。  
 有一点自学能力，就像日语（<N5）一样。  
 自认为自己比较容易相处，也很合群，尽管话不多。  
@@ -14,6 +14,7 @@
 
 
 # **以下为语法升级**
+
 >太(bei)宰(guo)治(xia)曾说过:胆小鬼连幸福都会害怕，碰到棉花也会受伤。
 
 ~~尴尬的引用~~  
@@ -25,6 +26,11 @@
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508078331643&di=d41d8cd98f00b204e9800998ecf8427e&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F9e3df8dcd100baa1f60bf4c44410b912c8fc2ead.jpg)
 
 
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508078331643&di=d41d8cd98f00b204e9800998ecf8427e&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F9e3df8dcd100baa1f60bf4c44410b912c8fc2ead.jpg" width=75% height=75% alt="意气风发" />
+
+
+感觉自我介绍似乎用不到多少语法，为了证明学过，只能打了个生硬的语法补丁。
+<font color=#7CFC00 size=5 face="黑体">原谅</font>脑子
 
 
 
