@@ -33,9 +33,9 @@
 <font color=green>原谅</font>脑子
 
 
-为啥这原谅改不成绿色
+~~为啥这原谅改不成绿色~~
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508600907710&di=606941ad6dc1fb0413515b44b503c984&imgtype=0&src=http%3A%2F%2Fimage.coolapk.com%2Ffeed%2F2016%2F0306%2F511370_1457246397_2579.jpg.m.jpg)
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508601297895&di=26ad265302c0a5a8cfffe38a986798e8&imgtype=0&src=http%3A%2F%2Fjoymepic.joyme.com%2Farticle%2Fuploads%2F160224%2F27-16022410301CH.jpg)
 
 
 
